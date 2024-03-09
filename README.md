@@ -1,1 +1,2 @@
-This is just a practice portfolio page.
+# Demo Portfolio
+This is just a practice portfolio page repository.
